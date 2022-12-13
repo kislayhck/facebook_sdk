@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "facebook-ads-sdk": "^2.10.5",
     "facebook-nodejs-ads-sdk": "^2.11.4",
     "facebook-nodejs-business-sdk": "^7.0.0",
